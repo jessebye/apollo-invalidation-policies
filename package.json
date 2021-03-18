@@ -1,5 +1,5 @@
 {
-  "name": "apollo-invalidation-policies",
+  "name": "apollo-invalidation-policies-ts4",
   "version": "1.0.0-beta17",
   "description": "An extension to the InMemoryCache from Apollo for type-based invalidation policies.",
   "main": "dist/index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NerdWalletOSS/apollo-invalidation-policies.git"
+    "url": "git+https://github.com/jessebye/apollo-invalidation-policies.git"
   },
   "keywords": [
     "apollo"
@@ -23,9 +23,9 @@
   "author": "Dan Reynolds",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/NerdWalletOSS/apollo-invalidation-policies/issues"
+    "url": "https://github.com/jessebye/apollo-invalidation-policies/issues"
   },
-  "homepage": "https://github.com/NerdWalletOSS/apollo-invalidation-policies#readme",
+  "homepage": "https://github.com/jessebye/apollo-invalidation-policies#readme",
   "peerDependencies": {
     "@apollo/client": "^3.3.0"
   },

@@ -1,8 +1,10 @@
-![Build](https://github.com/NerdWalletOSS/apollo-invalidation-policies/workflows/Build/badge.svg)
+![Build](https://github.com/jessebye/apollo-invalidation-policies/workflows/Build/badge.svg)
 
 # Apollo Invalidation Policies
 
 An extension of the [Apollo 3.0 cache](https://blog.apollographql.com/previewing-the-apollo-client-3-cache-565fadd6a01e) that provides a framework for managing the lifecycle and relationships of cache data through the use of invalidation policies.
+
+**Note**: this version is built for TypeScript 4.x projects.
 
 ## Installation
 
